@@ -7,17 +7,17 @@
 
 [3. Условия соревнования](https://github.com/Melan777/MY_DataSciense/blob/main/project_0/README.md#%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F-%D1%81%D0%BE%D1%80%D0%B5%D0%B2%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
 
-[4. Метрика качества](https://github.com/Melan777/MY_DataSciense/tree/main/project_0/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
+[4. Метрика качества](https://github.com/Melan777/MY_DataSciense/blob/main/project_0/README.md#%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0)
 
-[5. Что практикуем](https://github.com/Melan777/MY_DataSciense/tree/main/project_0/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
+[5. Что практикуем]()
 
-[6. Краткая информация о данных](https://github.com/Melan777/MY_DataSciense/tree/main/project_0/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
+[6. Краткая информация о данных]()
 
-[7. Этапы работы над проектом](https://github.com/Melan777/MY_DataSciense/tree/main/project_0/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
+[7. Этапы работы над проектом]()
 
-[8. Результат](https://github.com/Melan777/MY_DataSciense/tree/main/project_0/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
+[8. Результат]()
 
-[9. Выводы](https://github.com/Melan777/MY_DataSciense/tree/main/project_0/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
+[9. Выводы]()
 
 ### Описание проекта
 Угадать заданное компьютером число за минимальное количество попыток
