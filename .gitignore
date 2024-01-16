@@ -1,3 +1,6 @@
+# Большие файлы данных
+dst-3.0_16_1_hh_database.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
